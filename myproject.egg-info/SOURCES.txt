@@ -1,0 +1,13 @@
+README.md
+setup.py
+my_package/__init__.py
+my_package/main.py
+my_package/dir1/__init__.py
+my_package/dir1/__main__.py
+my_package/dir1/a.py
+my_package/dir2/__init__.py
+my_package/dir2/b.py
+myproject.egg-info/PKG-INFO
+myproject.egg-info/SOURCES.txt
+myproject.egg-info/dependency_links.txt
+myproject.egg-info/top_level.txt
